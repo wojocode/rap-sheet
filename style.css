@@ -26,7 +26,7 @@ body{
 }
 .card{
     position:relative;
-    border-bottom:1px solid var(--dark_gray);
+    border-bottom:2px solid var(--dark_gray);
 }
 .container{
     width:90%;
